@@ -24,7 +24,7 @@ city, display its weather on the home screen, and persist the selected city acro
     - Updates the Home Screen with the selected city and persists the choice.
 3. **Local Storage**:
     - Saves the selected city using **DataStore** to persist data across app launches.
-      4**Unit test**:
+4. **Unit test**:
     - Implemented unit tests for HomeViewModel to show testability of the code.
 
 ---
