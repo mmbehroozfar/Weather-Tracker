@@ -7,8 +7,6 @@ Architecture**. It demonstrates the use of **Model-View-Intent (MVI)** architect
 data from [WeatherAPI.com](https://www.weatherapi.com/docs/). The app allows users to search for a
 city, display its weather on the home screen, and persist the selected city across app launches.
 
----
-
 ## Features
 
 1. **Home Screen**:
