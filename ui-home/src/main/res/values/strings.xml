@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="celsius_sign">°</string>
+    <string name="temperature">%1$s°</string>
+    <string name="humidity_percent">%1$s%%</string>
+    <string name="humidity">Humidity</string>
+    <string name="uv">UV</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="no_city_selected">No City Selected</string>
+    <string name="please_search_for_a_city">Please Search For A City</string>
+    <string name="no_network_error">No network available!</string>
+    <string name="time_out_error">We couln\'t connect to internet!</string>
+    <string name="unknown_error">Something went wrong!</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="search_location">Search Location</string>
+</resources>
