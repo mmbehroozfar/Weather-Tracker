@@ -23,3 +23,4 @@ rootProject.name = "Weather Tracker"
 include(":app")
 include(":data")
 include(":domain")
+include(":ui-theme")
